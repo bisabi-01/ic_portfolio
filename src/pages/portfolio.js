@@ -136,9 +136,6 @@ const PortfolioStyled = styled.div`
 
 
 export default function Poortfolio () {
-
- 
-
   const data = useStaticQuery(graphql`
     query PoortfolioQuery {
       allMdx {
@@ -165,8 +162,7 @@ export default function Poortfolio () {
           }
         }
       }
-  }
-    
+  }  
   `)
 
 
