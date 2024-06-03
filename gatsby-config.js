@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `bisabi - Graphic & Web designer`,
+    title: `Ivan Cernuto`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,

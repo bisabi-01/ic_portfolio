@@ -1,8 +1,8 @@
 import * as React from "react";
-import { graphql } from 'gatsby'
-import Seo from '../../components/Seo'
+import { graphql } from 'gatsby';
+import Seo from '../../components/Seo';
 import styled from 'styled-components';
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+
 
 const PortfolioPost = styled.div`
     color: hsla(0, 0, 54%, 1); 
@@ -94,9 +94,6 @@ const PortfolioPost = styled.div`
 
       }
 
-      .gatsby-resp-image-wrapper {
-        
-      }
       
     }
     

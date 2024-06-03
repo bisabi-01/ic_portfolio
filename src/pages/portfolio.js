@@ -77,7 +77,7 @@ const PortfolioStyled = styled.div`
     }
 
     .gatsby-image-wrapper {
-      margin-right: 1rem;
+      margin-right: 2rem;
     }
 
    
