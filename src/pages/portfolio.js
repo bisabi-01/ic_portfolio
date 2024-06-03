@@ -76,6 +76,10 @@ const PortfolioStyled = styled.div`
       
     }
 
+    .gatsby-image-wrapper {
+      margin-right: 1rem;
+    }
+
    
       
 
@@ -144,17 +148,17 @@ export default function Poortfolio () {
             label
             featuredImage {
               childImageSharp {
-                gatsbyImageData(height: 100, layout: CONSTRAINED)
+                gatsbyImageData(height: 120, layout: CONSTRAINED)
               }
             }
             featuredImage2 {
               childImageSharp {
-                gatsbyImageData(height: 100, layout: CONSTRAINED)
+                gatsbyImageData(height: 120, layout: CONSTRAINED)
               }
             }
             featuredImage3 {
               childImageSharp {
-                gatsbyImageData(height: 100, layout: CONSTRAINED)
+                gatsbyImageData(height: 120, layout: CONSTRAINED)
               }
             }
             slug

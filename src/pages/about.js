@@ -37,6 +37,7 @@ const AboutStyled = styled.div`
         display: inline-block;
         letter-spacing: 0.04rem;
         text-decoration: underline ;
+        color: hsl(39, 100%, 64.1%);
     }
 
    
@@ -111,7 +112,7 @@ const About = () => {
     <AboutStyled>
             
             
-            <p>Ciao, il mio nome è Ivan :-)</p>
+            <p>Ciao, il mio nome è Ivan Cernuto :-)</p>
             
             
             <p>Sono un designer interdisciplinare con focus su Web design, Web Development e Graphic design. 

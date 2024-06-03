@@ -13,11 +13,11 @@ const GlobalStyles = createGlobalStyle`
 }
 
 ::-moz-selection { /* Code for Firefox */
-  background: hsla(39, 62%, 67%, 1);
+  background: hsl(38.6, 19.6%, 42%);
 }
 
 ::selection {
-  background: hsla(39, 62%, 67%, 1);
+  background: hsl(38.6, 19.6%, 42%);
 }
 
 /* Works on Chrome, Edge, and Safari */
@@ -30,7 +30,7 @@ const GlobalStyles = createGlobalStyle`
 }
 
 *::-webkit-scrollbar-thumb {
-  background-color: hsla(39, 62%, 67%, 1);
+  background-color: hsl(39, 100%, 64.1%);
 }
 
 body {
@@ -40,7 +40,7 @@ body {
 html {
     height:100vh;
     scrollbar-width: thin;  
-    scrollbar-color: hsla(39, 62%, 67%, 1) hsla(39, 23%, 25%, 0);
+    scrollbar-color: hsl(39, 100%, 64.1%) hsla(39, 23%, 25%, 0);
     background-color: hsl(38.8, 48.6%, 93.1%);
     
     opacity: 1;

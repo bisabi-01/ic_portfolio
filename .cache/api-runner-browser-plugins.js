@@ -3,7 +3,7 @@ module.exports = [{
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false,"disableVendorPrefixes":false},
     },{
       plugin: require('../node_modules/gatsby-remark-images/gatsby-browser.js'),
-      options: {"plugins":[],"maxWidth":900,"quality":100,"linkImagesToOriginal":false,"showCaptions":false,"markdownCaptions":false,"backgroundColor":"white","withWebp":false,"withAvif":false,"loading":"lazy","decoding":"async","disableBgImageOnAlpha":false,"disableBgImage":false},
+      options: {"plugins":[],"maxWidth":900,"quality":50,"linkImagesToOriginal":false,"showCaptions":false,"markdownCaptions":false,"backgroundColor":"white","withWebp":false,"withAvif":false,"loading":"lazy","decoding":"async","disableBgImageOnAlpha":false,"disableBgImage":false},
     },{
       plugin: require('../node_modules/gatsby-remark-images-medium-zoom/gatsby-browser.js'),
       options: {"plugins":[]},

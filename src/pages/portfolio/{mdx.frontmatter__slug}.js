@@ -52,6 +52,7 @@ const PortfolioPost = styled.div`
     align-self: center!important;
     margin-left: 2%!important;
     margin-right: 2%!important;
+    margin-bottom: 2%!important;
     grid-column: 2/3!important;
    }
 
