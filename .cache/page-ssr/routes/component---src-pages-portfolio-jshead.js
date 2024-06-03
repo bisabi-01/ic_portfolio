@@ -846,7 +846,7 @@ function Poortfolio() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(PortfolioStyled, null, data.allMdx.nodes.map(node => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
     className: "window"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
-    to: `/portfolio/${node.frontmatter.slug}`
+    to: `/Portfolio/${node.frontmatter.slug}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h1", {
     key: node.frontmatter.title
   }, node.frontmatter.title)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {

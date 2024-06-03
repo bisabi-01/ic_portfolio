@@ -51,9 +51,9 @@ function MDXContent(props = {}) {
 
 /***/ }),
 
-/***/ "./src/pages/portfolio/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/Ivan/webdev/bisabi/portfolio/jazzFlirtWebsite.mdx&export=head":
+/***/ "./src/pages/Portfolio/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/Ivan/webdev/bisabi/portfolio/jazzFlirtWebsite.mdx&export=head":
 /*!*************************************************************************************************************************************************!*\
-  !*** ./src/pages/portfolio/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/Ivan/webdev/bisabi/portfolio/jazzFlirtWebsite.mdx&export=head ***!
+  !*** ./src/pages/Portfolio/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/Ivan/webdev/bisabi/portfolio/jazzFlirtWebsite.mdx&export=head ***!
   \*************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 

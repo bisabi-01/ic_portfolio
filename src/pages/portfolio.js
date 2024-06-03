@@ -183,7 +183,7 @@ export default function Poortfolio () {
                   <div className="window">
                         
                         
-                          <Link to={`/portfolio/${node.frontmatter.slug}`}>
+                          <Link to={`/Portfolio/${node.frontmatter.slug}`}>
                             <h1 key={node.frontmatter.title}>{node.frontmatter.title}</h1>
                           </Link> 
 

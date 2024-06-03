@@ -3,7 +3,7 @@ exports.id = 101;
 exports.ids = [101];
 exports.modules = {
 
-/***/ 8257:
+/***/ 9185:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -26,14 +26,14 @@ var external_C_Users_Ivan_webdev_bisabi_node_modules_react_index_js_default = /*
 var Seo = __webpack_require__(5032);
 // EXTERNAL MODULE: ./node_modules/styled-components/dist/styled-components.esm.js + 4 modules
 var styled_components_esm = __webpack_require__(1864);
-;// CONCATENATED MODULE: ./src/pages/portfolio/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/Ivan/webdev/bisabi/portfolio/jazzFlirtFestival.mdx
+;// CONCATENATED MODULE: ./src/pages/Portfolio/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/Ivan/webdev/bisabi/portfolio/jazzFlirtFestival.mdx
 
 
 
 
 const PortfolioPost = styled_components_esm["default"].div.withConfig({
   displayName: "mdxfrontmatter__slug__PortfolioPost",
-  componentId: "sc-4sqrbg-0"
+  componentId: "sc-1wa4qy8-0"
 })(["color:hsla(0,0,54%,1);grid-column:1/3;justify-self:start;width:100%;height:92vh;.portfolioGrid{display:grid;grid-template-columns:1fr 1fr;align-items:baseline;height:100%;width:100%;border-top:1px solid hsl(37.7,100%,91.6%);overflow-y:scroll;scrollbar-width:thin;}article{color:hsl(37.7,100%,91.6%);grid-column:1/2;width:100%;position:sticky;top:0;h1{}p{max-width:90%;padding-left:1rem;margin-bottom:2rem;}}.galleryImg{grid-column:2/3;align-self:center;border-left:2px solid hsl(37.7,100%,91.6%);height:100%;}.gatsby-resp-image-wrapper{align-self:center!important;margin-left:2%!important;margin-right:2%!important;margin-bottom:2%!important;grid-column:2/3!important;}h1{margin:4% 0 2% 2%;}h5{margin:1% 0 2% 4%;text-decoration:underline;}@media (max-width:670px){.portfolioGrid{grid-template-columns:1fr;height:fit-content;}.article{align-self:center;grid-row:1/2;}.galleryImg{grid-column:1/2;display:grid;grid-auto-columns:calc(100% - 4rem);grid-auto-flow:column;grid-gap:8px;overflow-x:scroll;scrollbar-width:thin;scrollbar-color:hsla(39,62%,67%,1) hsla(39,23%,25%,0);}}"]);
 const PortfolioWork = ({
   data,
