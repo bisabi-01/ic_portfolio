@@ -95,7 +95,7 @@ const AboutStyled = styled.div`
     }
     @media (max-width: 700px){  
         p {
-            margin: 0 4% 0 4%;
+            margin: 2rem 4% 0 4%;
         }
     }
     
@@ -144,12 +144,6 @@ const About = () => {
                 <li>Gatsby.js</li>  
             </ul>
 
-            <ul className="skills">
-            <h5>Currently Learning:</h5> 
-                <li>Next.js</li>
-                <li>Astro.js</li>
-                 
-            </ul>
             </div>
             
             <div className="container">

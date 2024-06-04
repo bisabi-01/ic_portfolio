@@ -33,6 +33,10 @@ module.exports = {
             },
           },
 
+          {
+            resolve: `gatsby-remark-images-medium-zoom`, // Important!
+            options: {}
+          }
         ],
       },
     },

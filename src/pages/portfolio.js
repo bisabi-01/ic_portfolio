@@ -124,7 +124,9 @@ const PortfolioStyled = styled.div`
     @media (max-width: 500px){ 
       
      
-
+      .featImg2 {
+        display: none;
+      }
       .featImg3 {
         display: none;
       }

@@ -5,6 +5,9 @@ module.exports = [{
       plugin: require('../node_modules/gatsby-remark-images/gatsby-browser.js'),
       options: {"plugins":[],"maxWidth":900,"linkImagesToOriginal":false,"showCaptions":false,"markdownCaptions":false,"backgroundColor":"white","quality":50,"withWebp":false,"withAvif":false,"loading":"lazy","decoding":"async","disableBgImageOnAlpha":false,"disableBgImage":false},
     },{
+      plugin: require('../node_modules/gatsby-remark-images-medium-zoom/gatsby-browser.js'),
+      options: {"plugins":[]},
+    },{
       plugin: require('../gatsby-browser.js'),
       options: {"plugins":[]},
     },{

@@ -9,7 +9,7 @@ const PortfolioPost = styled.div`
     grid-column: 1/3;
     justify-self: start;
     width: 100%;
-    height: 92vh;
+    height: 90vh;
     
     .portfolioGrid {
       display: grid;
