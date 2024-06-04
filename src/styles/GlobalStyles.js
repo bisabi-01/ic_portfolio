@@ -6,12 +6,6 @@ const GlobalStyles = createGlobalStyle`
 
 //*color variables
 
-:root {
-  --bg: hsla(23, 11%, 75%, 1);
-  --nav: hsla(270, 40%, 90%, 1);
-  --text: hsla(38, 22%, 26%, 1);
-}
-
 ::-moz-selection { /* Code for Firefox */
   background: hsl(38.6, 19.6%, 42%);
 }
