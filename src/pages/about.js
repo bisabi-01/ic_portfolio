@@ -151,6 +151,7 @@ const About = () => {
                  
             </ul>
             </div>
+            
             <div className="container">
             <h3>書いて見たりけしたり果はけしの花</h3> 
 
