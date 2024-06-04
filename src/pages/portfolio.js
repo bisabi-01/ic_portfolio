@@ -145,17 +145,17 @@ export default function Poortfolio () {
             label
             featuredImage {
               childImageSharp {
-                gatsbyImageData(height: 120, layout: CONSTRAINED)
+                gatsbyImageData(height: 200, quality: 100, outputPixelDensities: 2)
               }
             }
             featuredImage2 {
               childImageSharp {
-                gatsbyImageData(height: 120, layout: CONSTRAINED)
+                gatsbyImageData(height: 200, quality: 100, outputPixelDensities: 2)
               }
             }
             featuredImage3 {
               childImageSharp {
-                gatsbyImageData(height: 120, layout: CONSTRAINED)
+                gatsbyImageData(height: 200, quality: 100, outputPixelDensities: 2)
               }
             }
             slug
@@ -179,7 +179,7 @@ export default function Poortfolio () {
                   <div className="window">
                         
                         
-                          <Link to={`/Portfolio/${node.frontmatter.slug}`}>
+                          <Link to={`/portfolio/${node.frontmatter.slug}`}>
                             <h1 key={node.frontmatter.title}>{node.frontmatter.title}</h1>
                           </Link> 
 

@@ -120,7 +120,7 @@ const PortfolioWork = ( { data, children} ) => {
         title
         featuredImage {
           childImageSharp {
-            gatsbyImageData(width: 600 )
+            gatsbyImageData(height: 120 )
           }
         }
         date(formatString: "MMMM D, YYYY")
