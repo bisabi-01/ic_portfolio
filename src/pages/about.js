@@ -95,7 +95,7 @@ const AboutStyled = styled.div`
     }
     @media (max-width: 700px){  
         p {
-            margin: 2rem 4% 0 4%;
+            margin: 2rem 4% 2rem 4%;
         }
     }
     
